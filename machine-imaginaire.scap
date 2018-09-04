@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="4626E8FD-E2EE-4618-B38F-704BCB4C72D8">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="328.949219,20.0" Width="185.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>lead castle machine imaginaire</String>
+            <ConnectedNoteIDs>105</ConnectedNoteIDs>
+            <PointsToNoteIDs>105</PointsToNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,30</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="314.078125,325.445312" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare a rectangle that measures 1 d6 x 1 d6 units</String>
+            <ConnectedNoteIDs>41, 112</ConnectedNoteIDs>
+            <PointsToNoteIDs>41</PointsToNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="298.097656,455.265625" Width="228.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>is the width of the largest rectangle with nothing on top of it greater than 3?</String>
+            <ConnectedNoteIDs>22-23, 41, 46</ConnectedNoteIDs>
+            <PointsToNoteIDs>22-23</PointsToNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="103.0625,559.789062" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare a rectangle that measures 1 d6 x 1 d6 units</String>
+            <ConnectedNoteIDs>22, 36, 42, 116, 119</ConnectedNoteIDs>
+            <PointsToNoteIDs>36, 42</PointsToNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="315.496094,518.425781" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>18, 20</ConnectedNoteIDs>
+            <PointsToNoteIDs>20</PointsToNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="442.507812,528.148438" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>18, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>117</PointsToNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="645.0,850.152344" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare a rectangle that measures 1 d6 x 1 d6 units or use the fitting measurement from the shape won’t fit path</String>
+            <ConnectedNoteIDs>36, 48, 118</ConnectedNoteIDs>
+            <PointsToNoteIDs>36, 48</PointsToNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="394.136719,840.734375" Width="107.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>the shape won’t fit on the baseline</String>
+            <ConnectedNoteIDs>20, 35, 56</ConnectedNoteIDs>
+            <PointsToNoteIDs>56</PointsToNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="317.289062,594.640625" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can you see any other people from where you are</String>
+            <ConnectedNoteIDs>40, 44, 115, 120</ConnectedNoteIDs>
+            <PointsToNoteIDs>40, 44</PointsToNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="459.496094,630.691406" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>37, 58</ConnectedNoteIDs>
+            <PointsToNoteIDs>58</PointsToNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="314.078125,394.429688" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw the rectangle, horizontally centered at the baseline</String>
+            <ConnectedNoteIDs>17-18</ConnectedNoteIDs>
+            <PointsToNoteIDs>18</PointsToNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="72.375,693.0" Width="192.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw the rectangle on the baseline with the right edge adjoining the left-most edge of the masses you have already drawn</String>
+            <ConnectedNoteIDs>20, 113</ConnectedNoteIDs>
+            <PointsToNoteIDs>113</PointsToNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="466.0,594.0" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>37, 45</ConnectedNoteIDs>
+            <PointsToNoteIDs>45</PointsToNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="581.902344,539.359375" Width="170.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can you remember any of your dreams from last night?</String>
+            <ConnectedNoteIDs>44, 46, 123</ConnectedNoteIDs>
+            <PointsToNoteIDs>46, 123</PointsToNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="524.972656,512.746094" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>18, 45</ConnectedNoteIDs>
+            <PointsToNoteIDs>18</PointsToNoteIDs>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="649.429688,934.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw the rectangle centered on the new baseline, and on its symmetrical pair, if applicable</String>
+            <ConnectedNoteIDs>35, 52</ConnectedNoteIDs>
+            <PointsToNoteIDs>52</PointsToNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="675.214844,1045.625" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>is your tea cup more full than empty?</String>
+            <ConnectedNoteIDs>48, 53-54</ConnectedNoteIDs>
+            <PointsToNoteIDs>53-54</PointsToNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="556.933594,910.195312" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>52, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>117</PointsToNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="604.421875,1047.59375" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>52, 55</ConnectedNoteIDs>
+            <PointsToNoteIDs>55</PointsToNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="361.570312,1035.792969" Width="218.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>set the baseline to the space remaining on the baseline that isn’t taken up by the rectangle you just drew</String>
+            <ConnectedNoteIDs>54, 119</ConnectedNoteIDs>
+            <PointsToNoteIDs>119</PointsToNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="402.945312,740.222656" Width="128.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare another rectangle: does it fit?</String>
+            <ConnectedNoteIDs>36, 57, 120</ConnectedNoteIDs>
+            <PointsToNoteIDs>57, 120</PointsToNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="473.429688,690.140625" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>56, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>117</PointsToNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="718.732999,626.803732" Width="157.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>consider each of these questions sequentially, proceed if yes ignore if no.</String>
+            <ConnectedNoteIDs>40, 60, 62, 64, 123</ConnectedNoteIDs>
+            <PointsToNoteIDs>60, 62, 64</PointsToNoteIDs>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="936.748624,469.51467" Width="161.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>have you talked to someone you love today?</String>
+            <ConnectedNoteIDs>58, 63, 84</ConnectedNoteIDs>
+            <PointsToNoteIDs>63, 84</PointsToNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="936.455655,798.120138" Width="129.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>are you drinking black tea right now?</String>
+            <ConnectedNoteIDs>58, 65, 96</ConnectedNoteIDs>
+            <PointsToNoteIDs>65, 96</PointsToNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="1144.061124,402.163107" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>60, 82</ConnectedNoteIDs>
+            <PointsToNoteIDs>82</PointsToNoteIDs>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="929.873624,642.241232" Width="137.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>do you have any bread?</String>
+            <ConnectedNoteIDs>58, 66-67, 70</ConnectedNoteIDs>
+            <PointsToNoteIDs>66-67, 70</PointsToNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="1095.982999,783.29592" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>62, 97</ConnectedNoteIDs>
+            <PointsToNoteIDs>97</PointsToNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="1134.361905,610.799826" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes, store bought</String>
+            <ConnectedNoteIDs>64, 68</ConnectedNoteIDs>
+            <PointsToNoteIDs>68</PointsToNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="1135.572842,682.17092" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>64, 69</ConnectedNoteIDs>
+            <PointsToNoteIDs>69</PointsToNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="1258.361905,612.838888" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare to draw rectangles</String>
+            <ConnectedNoteIDs>66, 73</ConnectedNoteIDs>
+            <PointsToNoteIDs>73</PointsToNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="1261.404874,687.67092" Width="132.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare to draw arches</String>
+            <ConnectedNoteIDs>67, 73</ConnectedNoteIDs>
+            <PointsToNoteIDs>73</PointsToNoteIDs>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="1132.264249,650.104513" Width="94.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes, homemade</String>
+            <ConnectedNoteIDs>64, 71</ConnectedNoteIDs>
+            <PointsToNoteIDs>71</PointsToNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="1261.264249,651.405295" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare to draw circles</String>
+            <ConnectedNoteIDs>70, 73</ConnectedNoteIDs>
+            <PointsToNoteIDs>73</PointsToNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="1917.0,644.0" Width="221.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare the shape to be 1 d6 / 3 units wide relative to the scale of each mass</String>
+            <ConnectedNoteIDs>76, 78-79, 122</ConnectedNoteIDs>
+            <PointsToNoteIDs>122</PointsToNoteIDs>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="1464.240811,660.381857" Width="150.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>what color are your pants?</String>
+            <ConnectedNoteIDs>68-69, 71, 74-75, 77</ConnectedNoteIDs>
+            <PointsToNoteIDs>74-75, 77</PointsToNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="1655.404874,629.252951" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>black</String>
+            <ConnectedNoteIDs>73, 76</ConnectedNoteIDs>
+            <PointsToNoteIDs>76</PointsToNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="1664.436124,665.069357" Width="31.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>blue</String>
+            <ConnectedNoteIDs>73, 78</ConnectedNoteIDs>
+            <PointsToNoteIDs>78</PointsToNoteIDs>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="1739.404874,627.252951" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>width is twice height</String>
+            <ConnectedNoteIDs>72, 74</ConnectedNoteIDs>
+            <PointsToNoteIDs>72</PointsToNoteIDs>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="1653.404874,700.252951" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>other</String>
+            <ConnectedNoteIDs>73, 79</ConnectedNoteIDs>
+            <PointsToNoteIDs>79</PointsToNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="1739.404874,667.350607" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>height is twice width</String>
+            <ConnectedNoteIDs>72, 75</ConnectedNoteIDs>
+            <PointsToNoteIDs>72</PointsToNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1739.795499,702.252951" Width="129.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>equal height and width</String>
+            <ConnectedNoteIDs>72, 77</ConnectedNoteIDs>
+            <PointsToNoteIDs>72</PointsToNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1892.960938,767.460938" Width="265.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>on each mass, if the relative units are more than half the size of the largest units, and the shapes fit, draw the shape in a repeating horizontal line along the mass</String>
+            <ConnectedNoteIDs>95, 122</ConnectedNoteIDs>
+            <PointsToNoteIDs>95</PointsToNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="1208.947842,390.624045" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare to draw an arc starting and ending on top of each mass with (1 d6 / 7)th of a circle</String>
+            <ConnectedNoteIDs>63, 85</ConnectedNoteIDs>
+            <PointsToNoteIDs>85</PointsToNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="1219.498624,490.475607" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>on top of each mass that doesn’t have anything on top of it, draw a diagonal line inward from either corner until the lines meet or reach a height of 2 units, whichever comes first.</String>
+            <ConnectedNoteIDs>84, 86</ConnectedNoteIDs>
+            <PointsToNoteIDs>86</PointsToNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="1138.330655,525.932638" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>60, 83</ConnectedNoteIDs>
+            <PointsToNoteIDs>83</PointsToNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="1460.291592,356.999045" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw the arcs on top of each mass that doesn’t have anything on top of it, as large as possible such that the width of the arc doesn’t exceed the width of the mass and the arc’s height is no more than 3 units</String>
+            <ConnectedNoteIDs>82, 87</ConnectedNoteIDs>
+            <PointsToNoteIDs>87</PointsToNoteIDs>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="1467.40878,519.17092" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>if the lines do not connect, draw a horizontal to connect them</String>
+            <ConnectedNoteIDs>83, 87</ConnectedNoteIDs>
+            <PointsToNoteIDs>87</PointsToNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="1727.025967,465.502951" Width="106.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>is the cat content?</String>
+            <ConnectedNoteIDs>85-86, 88-89</ConnectedNoteIDs>
+            <PointsToNoteIDs>88-89</PointsToNoteIDs>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="1900.264249,430.553732" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>87, 91</ConnectedNoteIDs>
+            <PointsToNoteIDs>91</PointsToNoteIDs>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="1904.619717,526.159201" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>87, 90</ConnectedNoteIDs>
+            <PointsToNoteIDs>90</PointsToNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="2007.010342,525.811545" Width="119.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>continue to next step</String>
+            <ConnectedNoteIDs>89, 91</ConnectedNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="1966.943936,413.475607" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>if there is room, set the baseline to the center third of the previous shape and draw the shape again</String>
+            <ConnectedNoteIDs>88, 90</ConnectedNoteIDs>
+            <PointsToNoteIDs>90</PointsToNoteIDs>
+        </Note>
+        <Note ID="95" FontSize="12.0" Position="1964.957031,865.195312" Width="119.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>continue to next step</String>
+            <ConnectedNoteIDs>80</ConnectedNoteIDs>
+        </Note>
+        <Note ID="96" FontSize="12.0" Position="1100.775967,833.112326" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>62, 98</ConnectedNoteIDs>
+            <PointsToNoteIDs>98</PointsToNoteIDs>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="1200.900967,777.573263" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw the sky to depict the current weather in Auckland, New Zealeand </String>
+            <ConnectedNoteIDs>65, 100</ConnectedNoteIDs>
+            <PointsToNoteIDs>100</PointsToNoteIDs>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="1202.775967,837.112326" Width="171.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>draw 1 d6 astronomical bodies</String>
+            <ConnectedNoteIDs>96, 100</ConnectedNoteIDs>
+            <PointsToNoteIDs>100</PointsToNoteIDs>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="1437.0,815.0" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>done!</String>
+            <ConnectedNoteIDs>97-98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="320.992188,65.78125" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>make a cup of tea, and sit down with a pen and paper, and a six sided die (d6)</String>
+            <ConnectedNoteIDs>0, 111</ConnectedNoteIDs>
+            <PointsToNoteIDs>111</PointsToNoteIDs>
+        </Note>
+        <Note ID="111" FontSize="12.0" Position="316.0,150.515625" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>establish a unit of length such that about 10 or so can fit on either edge of the page</String>
+            <ConnectedNoteIDs>105, 112</ConnectedNoteIDs>
+            <PointsToNoteIDs>112</PointsToNoteIDs>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="315.0,238.152344" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>establish the baseline of the drawing towards the bottom of the page</String>
+            <ConnectedNoteIDs>17, 111</ConnectedNoteIDs>
+            <PointsToNoteIDs>17</PointsToNoteIDs>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="119.734375,798.460938" Width="129.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>mirror the same shape on the opposite side</String>
+            <ConnectedNoteIDs>42, 114</ConnectedNoteIDs>
+            <PointsToNoteIDs>114</PointsToNoteIDs>
+        </Note>
+        <Note ID="114" FontSize="12.0" Position="61.164062,899.761719" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>have you been here before, and can you see any birds?</String>
+            <ConnectedNoteIDs>113, 115-116</ConnectedNoteIDs>
+            <PointsToNoteIDs>115-116</PointsToNoteIDs>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="260.375,853.664062" Width="27.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>yes</String>
+            <ConnectedNoteIDs>37, 114</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="116" FontSize="12.0" Position="13.457031,700.300781" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>20, 114</ConnectedNoteIDs>
+            <PointsToNoteIDs>20</PointsToNoteIDs>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="580.582031,731.0" Width="179.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>set the baseline to the top of the largest available surface</String>
+            <ConnectedNoteIDs>23, 53, 57, 118</ConnectedNoteIDs>
+            <PointsToNoteIDs>118</PointsToNoteIDs>
+        </Note>
+        <Note ID="118" FontSize="12.0" Position="646.136719,809.417969" Width="178.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>scale the units down about 20%</String>
+            <ConnectedNoteIDs>35, 117</ConnectedNoteIDs>
+            <PointsToNoteIDs>35</PointsToNoteIDs>
+        </Note>
+        <Note ID="119" FontSize="12.0" Position="336.539062,943.5" Width="178.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>scale the units down about 20%</String>
+            <ConnectedNoteIDs>20, 55</ConnectedNoteIDs>
+            <PointsToNoteIDs>20</PointsToNoteIDs>
+        </Note>
+        <Note ID="120" FontSize="12.0" Position="414.925781,694.0" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>37, 56</ConnectedNoteIDs>
+            <PointsToNoteIDs>37</PointsToNoteIDs>
+        </Note>
+        <Note ID="122" FontSize="12.0" Position="1919.707031,703.722656" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>prepare the row of shapes to be 1 d6 / 6 of the way up the mass</String>
+            <ConnectedNoteIDs>72, 80</ConnectedNoteIDs>
+            <PointsToNoteIDs>80</PointsToNoteIDs>
+        </Note>
+        <Note ID="123" FontSize="12.0" Position="781.359375,577.179688" Width="22.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>no</String>
+            <ConnectedNoteIDs>45, 58</ConnectedNoteIDs>
+            <PointsToNoteIDs>58</PointsToNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0, 22-23, 40, 44, 46, 53-54, 57, 63-71, 73-79, 84, 87-90, 95-96, 98, 100, 115-116, 118-120, 123</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="9C79A50C-4E2F-4638-91E3-61060E2AC5CA" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="87A74D4D-53F5-425A-A3D9-9A7E7CBFFB22" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="B89C5F48-AC24-4B75-8683-FA4F2139AA47" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="279E8114-3A19-48AA-AA23-A00874676C51" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="55E28AD5-E8BB-44AC-A485-7FA0E6572EF7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="8E1AD40B-A956-4CD8-8B9F-E603A7292FA7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="51E91855-21A1-40EC-801A-FCF0572F1E15" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
